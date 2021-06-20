@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EntityFrameworkCore.DataProtection.Example.Web
+build_property.ProjectDir = C:\Users\emre.kizildas\source\repos\EntityFrameworkCore.DataProtection.Example.Web\

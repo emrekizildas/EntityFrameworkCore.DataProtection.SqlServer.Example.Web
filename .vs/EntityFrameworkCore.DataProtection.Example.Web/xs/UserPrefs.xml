@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{96E8DD9C-2B71-4B88-98AD-FC856F37D423}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ExampleController.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="13" Column="4" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/ExampleController.cs" Line="29" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFrameworkCore.DataProtection.Example.Web" expanded="True">
+            <Node name="EntityFrameworkCore.DataProtection.Example.Web" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ExampleController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EntityFrameworkCore.DataProtection.Example.Web PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
